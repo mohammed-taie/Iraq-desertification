@@ -1,7 +1,5 @@
 import streamlit as st
 import os
-import ee
-import geemap
 
 
 def app():

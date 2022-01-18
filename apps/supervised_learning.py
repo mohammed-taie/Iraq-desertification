@@ -1,6 +1,4 @@
-import ee
 import streamlit as st
-import geemap.foliumap as geemap
 from PIL import Image
 
 
